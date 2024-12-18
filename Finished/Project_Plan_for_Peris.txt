@@ -1,0 +1,24 @@
+Project Plan (Adventure game)
+Our group name is Peris. Our group members are Peter, Jaune and Chris. Our project name is adventure game, that is a text adventure game with one teenager in a locked castle. Our project is designed to let players have fun in leisure time. 
+1: Set amounts of rooms in the castle as places where players could explore.
+2: define directions with some simple letters. “s” =south
+3: define the inventories in the castle which players could collect.
+4: set the players original place and place the command as players.
+5: define commands that let players control the character move 
+6: define the command that remind players when they got key items
+7: define the command let the specific rooms have different types of monsters.
+8: define the command which items could hit against monsters
+9: define the command to show items which player already got.
+10: define the command to show the place where player is right now.
+11: define the command to show what happened if player was hit against by monsters.
+12: show the direction of the game in the beginning of the game to let players know what the purpose of game is.
+13: define the command to show what would happen if monsters would be hit against by player
+14: define the command to show the hp of players that could remind players to know if he is safe
+15: define the command to show which items are core to players like “master sword”.
+16: print the background story when the player enters the game
+17: print the ending story of the whole game when players left the castle.
+18: define the command to let players decide what would do next 
+19: define the command to let those choices which player had decided would affect ending
+20: define the command to let players make decisions when they were faced with monsters like running away or fighting with it.
+We will use Kanban system to separate the work in three situations: to do, doing, done.
+We have not started the project, but we have created the story of background, and things we need to do is researching how to make the project with detailed skills and codes. We will separate those details in equal parts personally.
