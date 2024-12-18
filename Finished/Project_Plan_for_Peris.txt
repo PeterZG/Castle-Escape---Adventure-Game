@@ -1,5 +1,6 @@
 Project Plan (Adventure game)
-Our group name is Peris. Our group members are Peter, Jaune and Chris. Our project name is adventure game, that is a text adventure game with one teenager in a locked castle. Our project is designed to let players have fun in leisure time. 
+Our group name is Peris. Our group members are Peter, Jaune and Chris. Our project name is adventure game, that is a text adventure game with one teenager in a locked castle. Our project is designed to let players have fun in leisure time.
+
 1: Set amounts of rooms in the castle as places where players could explore.
 2: define directions with some simple letters. “s” =south
 3: define the inventories in the castle which players could collect.
@@ -20,5 +21,9 @@ Our group name is Peris. Our group members are Peter, Jaune and Chris. Our proje
 18: define the command to let players decide what would do next 
 19: define the command to let those choices which player had decided would affect ending
 20: define the command to let players make decisions when they were faced with monsters like running away or fighting with it.
+
 We will use Kanban system to separate the work in three situations: to do, doing, done.
+
 We have not started the project, but we have created the story of background, and things we need to do is researching how to make the project with detailed skills and codes. We will separate those details in equal parts personally.
+
+Update - Completed
